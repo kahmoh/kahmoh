@@ -1,11 +1,12 @@
-# Yo, I'm Josh 👋 
+<h1>kahmoh</h1>
+I'm a self-taught student of web-development looking to take the next step in my programming career through job opportunities. All projects are built by me, I'm always exploring other interests outside of programming, but this is a good place to see what I'm up to when I'm at my computer.
 
 - 🌱 I’m currently learning Node, React, Python and some other random interests of mine
 - 👯 I’m looking to collaborate with Javascript developers on open source projects
 
 ### Connect with me:
 https://www.linkedin.com/in/josh-mcfadden-3b5333216/?originalSubdomain=uk
-
+---
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
@@ -21,19 +22,8 @@ https://www.linkedin.com/in/josh-mcfadden-3b5333216/?originalSubdomain=uk
 
 <br />
 <br />
-
 ---
-
----
-
----
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 [![kahmoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahmoh)](https://github.com/kahmoh/github-readme-stats)
-  
-
 </details>
-
-[linkedin]: https://www.linkedin.com/in/josh-mcfadden-3b5333216/?originalSubdomain=uk
