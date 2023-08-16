@@ -32,5 +32,5 @@ https://www.linkedin.com/in/josh-mcfadden-3b5333216/?originalSubdomain=uk
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-[kahmoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahmoh&show_icons=true&theme=material-palenight)
+[[kahmoh's GitHub stats]](https://github-readme-stats.vercel.app/api?username=kahmoh&show_icons=true&theme=material-palenight)
 </details>
