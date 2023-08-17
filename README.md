@@ -24,4 +24,4 @@ I'm a self-taught student of web-development looking to take the next step in my
 ---
 
 :zap: GitHub Stats
-![kahmoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahmoh)](https://github.com/anuraghazra/github-readme-stats)
+![kahmoh's GitHub stats](github-readme-stats-kahmoh.vercel.app/api?username=kahmoh)](https://github.com/anuraghazra/github-readme-stats)
