@@ -23,7 +23,5 @@ I'm a self-taught student of web-development looking to take the next step in my
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  ![kahmoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahmoh&show_icons=true&theme=gruvbox)
-</details>
+<summary>:zap: GitHub Stats</summary>
+![kahmoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahmoh&show_icons=true&theme=gruvbox)
