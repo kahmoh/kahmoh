@@ -26,4 +26,4 @@ I'm a self-taught student of web-development looking to take the next step in my
 :zap: GitHub Stats
 <br />
 <br />
-![kahmoh's GitHub stats](https://github-readme-stats-alpha-liart.vercel.app/api?username=kahmoh)]
+![kahmoh's GitHub stats](https://github-readme-stats-alpha-liart.vercel.app/api?username=kahmoh)
