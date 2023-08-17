@@ -25,5 +25,5 @@ I'm a self-taught student of web-development looking to take the next step in my
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahmoh&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahmoh&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </details>
