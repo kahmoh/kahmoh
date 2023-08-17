@@ -8,11 +8,6 @@ I'm a self-taught student of web-development looking to take the next step in my
 
 ---
 
-### Connect with me:
-https://www.linkedin.com/in/josh-mcfadden-3b5333216/?originalSubdomain=uk
-
----
-
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
